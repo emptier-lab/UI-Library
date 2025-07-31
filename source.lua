@@ -1,4 +1,4 @@
-local Release = "1.1"
+local Release = "Prerelease Beta 6.1"
 
 local velvet = { 
 	Folder = "velvet", 
