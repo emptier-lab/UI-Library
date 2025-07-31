@@ -3,7 +3,7 @@ local Release = "1.1"
 local velvet = { 
 	Folder = "velvet", 
 	Options = {}, 
-	ThemeGradient = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(117, 164, 206)), ColorSequenceKeypoint.new(0.50, Color3.fromRGB(123, 201, 201)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(224, 138, 175))} 
+	Luna.ThemeGradient = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 91, 104)), ColorSequenceKeypoint.new(0.50, Color3.fromRGB(255, 120, 130)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 70, 85))}
 }
 
 local UserInputService = game:GetService("UserInputService")
